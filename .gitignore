@@ -7,16 +7,3 @@
 /build
 /captures
 .externalNativeBuild
-.idea/caches/build_file_checksums.ser
-.idea/codeStyles/Project.xml
-.idea/gradle.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-app/build.gradle
-build.gradle
-gradle/wrapper/gradle-wrapper.properties
-app/build.gradle
-build.gradle
-gradle/wrapper/gradle-wrapper.properties
-app/build.gradle
